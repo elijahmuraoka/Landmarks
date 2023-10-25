@@ -1,14 +1,14 @@
 //
-//  landmarksApp.swift
-//  landmarks
+//  LandmarksApp.swift
+//  Landmarks
 //
-//  Created by Elijah Muraoka on 10/25/23.
+//  Created by Elijah Muraoka on 10/21/23.
 //
 
 import SwiftUI
 
 @main
-struct landmarksApp: App {
+struct LandmarksApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
